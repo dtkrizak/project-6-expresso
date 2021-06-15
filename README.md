@@ -1,6 +1,6 @@
 # capstone-project-2-expresso
 
-This project focused on building a back-end CRUD API. The requirements for the project are listed below focusing on four different tables for menus, menu items, employees and employee timesheets.
+This project focused on building a back-end CRUD API using Express and SQLite. The requirements for the project are listed below focusing on four different tables for menus, menu items, employees and employee timesheets.
 
 ## Project Overview
 
